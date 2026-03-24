@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HotelSys | Home</title>
+    <title>LotusStay | Home</title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
         
@@ -77,7 +77,7 @@
 
     <!-- Beautiful Navbar embedded directly since other files were confusingly structured -->
     <nav class="navbar">
-        <a href="/home" class="logo">HotelSys</a>
+        <a href="/home" class="logo">LotusStay</a>
         <ul class="nav-links">
             <li><a href="/home">Home</a></li>
             <li><a href="/searchHotel">Hotels</a></li>
